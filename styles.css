@@ -1,0 +1,25 @@
+.container{
+    border: 2px solid black;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    /* flex-wrap:wrap-reverse ; */
+    justify-content: sp;
+    align-items: sp;
+    
+    
+    
+
+    
+   
+
+}
+.box{
+    border: 1px solid brown;
+    background-color: aqua;
+    width: 45px;
+    /* height: 40px; */
+
+    
+    
+}
